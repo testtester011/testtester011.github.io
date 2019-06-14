@@ -1728,7 +1728,11 @@ input, select, textarea {
 						}
 
 		}
-
+.active
+{
+    position: relative;
+    top: 30px
+}
 /* Section/Article */
 
 	section.special, article.special {
@@ -2311,7 +2315,6 @@ input, select, textarea {
 			top: 0;
 		}
 	}
-
 	#header {
 		background: #fff;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
@@ -2320,7 +2323,7 @@ input, select, textarea {
 		font-size: 0.8em;
 		left: 0;
 		padding: 1em 1.5em;
-		position: fixed;
+		position: relative;
 		top: 0;
 		width: 100%;
 		z-index: 10000;
