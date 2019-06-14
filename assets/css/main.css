@@ -2025,8 +2025,8 @@ input, select, textarea {
     text-indent: -2em;
 }
 .list-dash li:before {
-    content: '★ '; /* em dash */
-    color: white;
+    	content: '★ '; /* em dash */
+    	color: white;
 	font-size: 80%;
 }
 .list-bullet li:before {
