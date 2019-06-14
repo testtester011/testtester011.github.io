@@ -2609,7 +2609,7 @@ input, select, textarea {
 
 	#main {
 		background-image: url("images/dark-tl.svg"), url("images/dark-tr.svg"), url("images/dark-bl.svg"), url("images/dark-br.svg");
-		background-position: center;
+		background-position: top;
 		background-repeat: no-repeat;
 		background-size: 25em;
 		padding: 7em 0;
