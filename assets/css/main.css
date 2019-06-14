@@ -2027,7 +2027,7 @@ input, select, textarea {
 .list-dash li:before {
     	content: '★ '; /* em dash */
     	color: white;
-	font-size: 80%;
+	font-size: 200%;
 }
 .list-bullet li:before {
     content: '★ '; /*copy and paste a bullet from HTML in browser into CSS (not using ASCII codes) */
