@@ -2360,6 +2360,7 @@ input, select, textarea {
 					display: inline-block;
 					margin-left: 1.5em;
 					padding-left: 0;
+					position: inherit;
 				}
 
 					#header nav ul li > ul {
